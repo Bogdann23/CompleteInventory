@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Complete Inventory</string>
+    <string name="action_settings">Delete all products</string>
+    <string name="product_name">Product name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_order">Order</string>
+    <string name="sell">Sell</string>
+    <string name="supplier">Supplier</string>
+    <string name="product">Product</string>
+    <string name="supplier_name">Supplier name</string>
+    <string name="delete_product">Delete product</string>
+    <string name="editor_insert_product_failed">Saving product failed</string>
+    <string name="editor_insert_product_successful">Product saved successfully</string>
+    <string name="editor_update_product_failed">Edit error</string>
+    <string name="editor_update_product_successful">Product data updated</string>
+    <string name="editor_activity_title_new_product">Add a Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="product_image">Product image</string>
+    <string name="browse_image">Browse image</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+    <string name="editor_delete_product_successful">Product deleted</string>
+    <string name="delete_dialog_msg">Delete this Product?</string>
+    <string name="action_delete_all_entries">Delete all products</string>
+    <string name="noDataFound">No data to display. \nPress the + button and start adding data</string>
+    <string name="insert_required_data">Please insert all required information</string>
+    <string name="no_data_no_save">No data inserted, no data to save</string>
+
+</resources>
